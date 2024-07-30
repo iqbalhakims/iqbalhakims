@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iqbalhakims
 - 👀 I’m interested in cloud and devops 
-- 🌱 I’m currently in my final semester
 - 💞️ I’m looking to collaborate with cloud company
 - 📫 teamstac350@gmail.com
 
